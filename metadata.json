@@ -1,0 +1,6 @@
+{
+  "name": "Calorie Tracker",
+  "description": "Track calories and key macronutrients instantly by taking a food picture or selecting an image.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
